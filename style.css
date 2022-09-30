@@ -1,0 +1,51 @@
+header{
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.header{
+    color: black;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+nav{
+    display: flex;
+    color: black;
+}
+div{
+    margin-top: 10px;
+    font-size: 50px;
+    margin-left: 10px;
+}
+.sous-header li{
+    margin-left: 10px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+.img li{
+    margin-left: 10px;
+}
+ul.img{
+    margin-left: -40px;
+}
+nav ul.head{
+    margin-left: 40px;
+}
+.rrp{
+    color: gray;
+}
+.saving{
+    color: rgb(70, 170, 70);
+}
+.logo{
+    color: white;
+    background-color: black;
+}
+li.img{
+    border: 1px solid;
+    padding: 3px;
+}
